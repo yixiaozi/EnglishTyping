@@ -1,0 +1,12 @@
+E:\yixiaozi\Code\C#\Project\EnglishTyping\bin\Debug\EnglishTyping.exe.config
+E:\yixiaozi\Code\C#\Project\EnglishTyping\bin\Debug\EnglishTyping.exe
+E:\yixiaozi\Code\C#\Project\EnglishTyping\bin\Debug\EnglishTyping.pdb
+E:\yixiaozi\Code\C#\Project\EnglishTyping\obj\Debug\EnglishTyping.csproj.AssemblyReference.cache
+E:\yixiaozi\Code\C#\Project\EnglishTyping\obj\Debug\EnglishTyping.Form1.resources
+E:\yixiaozi\Code\C#\Project\EnglishTyping\obj\Debug\EnglishTyping.Properties.Resources.resources
+E:\yixiaozi\Code\C#\Project\EnglishTyping\obj\Debug\EnglishTyping.csproj.GenerateResource.cache
+E:\yixiaozi\Code\C#\Project\EnglishTyping\obj\Debug\EnglishTyping.csproj.CoreCompileInputs.cache
+E:\yixiaozi\Code\C#\Project\EnglishTyping\obj\Debug\EnglishTyping.exe
+E:\yixiaozi\Code\C#\Project\EnglishTyping\obj\Debug\EnglishTyping.pdb
+E:\yixiaozi\Code\C#\Project\EnglishTyping\bin\Debug\GroupDocs.Search.dll
+E:\yixiaozi\Code\C#\Project\EnglishTyping\bin\Debug\GroupDocs.Search.xml
